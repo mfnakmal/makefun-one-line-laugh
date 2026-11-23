@@ -1,3 +1,5 @@
+// The line (81 chars): a twist on the last two words — headphones built to
+// block sound, used here to ignore people "in high definition".
 // One-Line Laugh Sprint — entry for make.fun bounty
 // u-daring-gecko-25-one-line-laugh-sprint-cda708b2
 //
